@@ -3,7 +3,6 @@
  
 <img src="./assets/images/active-states.jpg"> 
 <br>
-<br>
 
 # **Challenge Name**
 
