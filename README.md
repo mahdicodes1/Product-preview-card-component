@@ -19,7 +19,6 @@ The designs were created to the following widths:
 
 ## **Links**
 
-- Solution URL: [click here](https://github.com/mahdicodes1/Product-preview-card-component)
 - Live Site URL: [click here](https://mahdicodes1.github.io/Product-preview-card-component/)
 
 <br>
