@@ -6,7 +6,7 @@
 
 # **Challenge Name**
 
-- ### [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+- ### [Product preview card component](https://www.frontendmentor.io/solutions/product-preview-card-component-_JfYfJDS8z)
 
 <br>
 
